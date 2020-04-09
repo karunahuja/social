@@ -43,7 +43,7 @@
         <% if (flash.error && flash.error.length>0){ %>
             new Noty({
                     theme:'relax',
-                    text:'<%= error.success %>',
+                    text:'<%= flash.error %>',
                     type:'error',
                     layout:'topright',
                     timeout:1500
