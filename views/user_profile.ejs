@@ -6,11 +6,13 @@
 
         <% if(user.id==profile_user.id){ %>
 
-        <form action="/users/update/<%= user.id %>" method="POST">
+        <form action="/users/update/<%= user.id %>" enctype="multipart/form-data" method="POST">
         <input type="text" name="name" placeholder="Your Name" value="<%=profile_user.name%>">
         <input type="text" name="email" placeholder="Your Email" value="<%=profile_user.email%>">
+        <input type="file" name="avatar" />
             <input type="submit" value="update">
-        <%}else{%>
+        
+            <%}else{%>
             <p><%= profile_user.name %></p>
             <p><%= profile_user.email %></p>
     <%}%>
