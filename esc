@@ -1,0 +1,113 @@
+[33mcommit 6b29d572abe55d21d789aa047c8b15375e192378[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sun Apr 12 05:58:37 2020 +0530
+
+    setting up passport google oauth2
+
+[33mcommit 30283aa4e9a138e40682c71cd6e56ec0b839b6bc[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sat Apr 11 20:54:54 2020 +0530
+
+    setting up passport jwt
+
+[33mcommit 333c3ce8b554c5f4e015c186295a1f832567f6e1[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sat Apr 11 17:33:31 2020 +0530
+
+    playing with api
+
+[33mcommit 92db5100af9e01445479b9ed36f9f0a6cef08a66[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sat Apr 11 16:52:17 2020 +0530
+
+    rendering an api
+
+[33mcommit 149fb4369a2e3ceca8e299e4c583eb31434d9e46[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sat Apr 11 12:18:15 2020 +0530
+
+    setting up directory structure for making api
+
+[33mcommit 93b909abe2c93e8a5782dcaf3cd921973fe075d1[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sat Apr 11 04:37:35 2020 +0530
+
+    Showing the avatar
+
+[33mcommit 06c7701276aa23efb9b952ec040bdb917b646c30[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sat Apr 11 04:24:21 2020 +0530
+
+    saving file from params
+
+[33mcommit 6a589ca1c92dd4aaffc800d1b17d9ab3e7c02194[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Sat Apr 11 02:39:47 2020 +0530
+
+    configuring multer for user avatar
+
+[33mcommit dcf694517c1326b862c510afd1b82a80d2a22a38[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Fri Apr 10 06:19:57 2020 +0530
+
+    destroy post by ajax
+
+[33mcommit dac705830581507e74941c79ad21d39b463d1a20[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Fri Apr 10 05:57:41 2020 +0530
+
+    creating post by Ajax
+
+[33mcommit c47d032afe7408ee289a71bc9b244f8033f25995[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Fri Apr 10 00:58:38 2020 +0530
+
+    adding flash messages to more actions
+
+[33mcommit df011927e0128336bf2e057e2907c9a3ec2e1883[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Fri Apr 10 00:39:38 2020 +0530
+
+    introducing noty
+
+[33mcommit cb7ff40b1b05c2e700056cd46267360cec4dc57f[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Fri Apr 10 00:04:32 2020 +0530
+
+    adding flash messages
+
+[33mcommit 07fac8934e1c0c9e6428edc42a7361f73a2098bf[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Thu Apr 9 23:12:09 2020 +0530
+
+    adding more code to async await
+
+[33mcommit cfb903160ff9f23d6f9b2b86cc7d5a6bbf292409[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Thu Apr 9 22:01:45 2020 +0530
+
+    converting to async await
+
+[33mcommit 0d38111d6b12c875071ff38b599f0d3796f058eb[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Thu Apr 9 06:02:25 2020 +0530
+
+    Improving Scss of page
+
+[33mcommit f920027d3bd96306b4ab3f17b6fbe6ba6758b683[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Thu Apr 9 05:37:54 2020 +0530
+
+    Update User profile
+
+[33mcommit 2ffc17e4dc0233c15dae221d27e537929ebdff33[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Thu Apr 9 02:42:20 2020 +0530
+
+    User profile links added to home page
+
+[33mcommit 997732a42ce8bb588e9fde809c84894ee9e965b1[m
+Author: karun <karunahuja1998@gmail.com>
+Date:   Thu Apr 9 01:49:45 2020 +0530
+
+    distributing code into partial
