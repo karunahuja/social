@@ -1,3 +1,6 @@
+//client id=210380644110-jal80sn8mfm9151ji32l7m1tkiis601v.apps.googleusercontent.com
+//client secret=2funJb78ZF6GcIfY1hK0hwKQ
+
 const express = require('express');
 const cookieParser = require('cookie-parser');
 const app = express();
