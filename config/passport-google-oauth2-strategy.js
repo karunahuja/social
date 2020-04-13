@@ -4,8 +4,8 @@ const crypto=require('crypto');
 const User=require('../models/user');
 
 passport.use(new googleStrategy({
-    clientID:"210380644110-jal80sn8mfm9151ji32l7m1tkiis601v.apps.googleusercontent.com",
-    clientSecret:"2funJb78ZF6GcIfY1hK0hwKQ",
+    clientID:"",
+    clientSecret:"",
     callbackURL:"http://localhost:8000/users/auth/google/callback"
 
 },
